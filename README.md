@@ -1,2 +1,2 @@
 # pagina-bot-cambios-climaticos-real
-programa de python , sencillo 
+Aplicacion y pagina web para conscientizar sobre el cambio climatico
